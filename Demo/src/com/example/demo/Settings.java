@@ -1,5 +1,7 @@
 package com.example.demo;
 
-public class Settings {
+import android.app.Activity;
+
+public class Settings extends Activity {
 
 }
